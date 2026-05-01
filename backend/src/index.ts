@@ -38,7 +38,7 @@ app.options('*', cors());
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.get("/", (req,res)=>{res.send("server is up and running"})
+app.get('/', (req,res)=>{res.send("server is up and running"})
 app.use('/uploads', express.static(path.join(process.cwd(), 'uploads')));
 
 app.use('/api/auth', authRoutes);
