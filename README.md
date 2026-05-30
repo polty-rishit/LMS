@@ -307,7 +307,7 @@ The frontend loan configuration interface recalculates these exact metrics dynam
 
 ## Credit Lifecycle
 
-Every loan navigates a structured progression path:
+Every loan navigates a structured progression path :
 
 ```text
 [Initial Data Entry]       →  incomplete
