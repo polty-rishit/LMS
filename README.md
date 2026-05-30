@@ -155,7 +155,7 @@ The REST API will now listen on `http://localhost:5000`. You can confirm its sta
 
 ---
 
-### Phase 3: Client Interface Setup
+### Phase 3: Client Interface Setup and lookup
 
 Launch a **second terminal window** and navigate to the client folder:
 
