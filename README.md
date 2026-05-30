@@ -84,7 +84,7 @@ lendflow-workspace/
 
 ---
 
-## System Requirements
+## System Requirements and the things you need
 
 Before beginning, ensure your local environment contains:
 
