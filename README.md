@@ -115,7 +115,7 @@ Navigate into the server directory:
 cd backend
 ```
 
-**Establish environment configurations:**
+** Establish environment configurations: **
 
 ```bash
 cp .env.example .env
