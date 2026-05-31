@@ -2,7 +2,7 @@
 
 Welcome to LendFlow, a robust, full-stack digital lending application. This platform enables consumers to seamlessly apply for credit while providing internal banking staff with a sophisticated dashboard to process, approve, disburse, and collect payments throughout the credit lifecycle.
 
-Powered by a modern ** MERN architecture combined with Next.js and TypeScript **, the system guarantees type safety and high performance.
+Powered by a modern ** MERN architecture combined with Next.js and TypeScript **, the system guarantees type safety and high performance .
 
 ---
 
