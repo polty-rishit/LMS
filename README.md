@@ -1,4 +1,4 @@
-   # 🏦 LendFlow: End-to-End Loan Management System
+    # 🏦 LendFlow: End-to-End Loan Management System
 
 Welcome to LendFlow, a robust, full-stack digital lending application. This platform enables consumers to seamlessly apply for credit while providing internal banking staff with a sophisticated dashboard to process, approve, disburse, and collect payments throughout the credit lifecycle.
 
